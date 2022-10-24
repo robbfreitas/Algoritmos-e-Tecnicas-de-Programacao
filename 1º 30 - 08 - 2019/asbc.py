@@ -1,0 +1,5 @@
+nome = input('Digite seu nome: ')
+sobrenomePai= input('Digite sobrenome do pai: ')
+empresa = input('Digite nome da empresa: ')
+emaill = nome {} + sobrenomePai {} + empresa {}.format(nome, sobrenomePai, empresa)
+print (email)
